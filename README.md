@@ -1,1 +1,3 @@
-# poker-server
+# microservice-template
+
+Template for microservices.
